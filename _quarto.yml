@@ -8,8 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - exhibits.qmd
       - site.qmd
+      - utility.qmd
+      - comparisons.qmd
+      - about.qmd
 
 format:
   html:

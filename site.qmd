@@ -1,6 +1,8 @@
 ---
-title: "Site"
+title: "Site & Design"
 ---
+
+## Site
 
 The site is one and a half blocks, close to the Knoxville Civic Center and Coliseum. See a map from the [2019 presentation](https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_109478/File/Redevelopment/Science/112119-presentation.pdf) made to the city of Knoxville by representatives of the Clayton Family Foundation and BarberMcMurry Architects (note that use of the map does not imply any endorsement by either of these groups of any plan for an aquarium at the site or any other ideas on this webpage). 
 
@@ -9,3 +11,9 @@ The site is one and a half blocks, close to the Knoxville Civic Center and Colis
 There are three essentially adjacent parking garages. The area is used to handling sudden influxes of traffic given the proximity to the [Knoxville Civic Auditorium and Coliseum](https://www.knoxvillecoliseum.com), which hosts everything from Disney on Ice to ballet to concerts. It is close to interstates 40 and 75. See map below:
 
 <div class="embed-map-responsive"><div class="embed-map-container"><iframe class="embed-map-frame" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&height=400&hl=en&q=800%20Howard%20Baker%20Jr.%20Ave%2C%20Knoxville%2C%20TN%2037915&t=&z=14&ie=UTF8&iwloc=B&output=embed"></iframe><a href="https://cartoongames.io" style="font-size:2px!important;color:gray!important;position:absolute;bottom:0;left:0;z-index:1;max-height:10px;overflow:hidden">Cartoon Games</a><a href="https://heygames.org" style="font-size:2px!important;color:gray!important;position:absolute;bottom:0;left:0;z-index:1;max-height:10px;overflow:hidden">HeyGames</a><a href="https://map-embed.org" style="font-size:2px!important;color:gray!important;position:absolute;bottom:0;left:0;z-index:1;max-height:10px;overflow:hidden">google maps generator</a></div><style>.embed-map-responsive{position:relative;text-align:right;width:100%;height:0;padding-bottom:66.66666666666666%;}.embed-map-container{overflow:hidden;background:none!important;width:100%;height:100%;position:absolute;top:0;left:0;}.embed-map-frame{width:100%!important;height:100%!important;position:absolute;top:0;left:0;}</style></div>
+
+## Design
+
+One would want to have real architects involved in any design process. Just for quick inspiration, I used Google Gemini to create a few potential ideas. [My hope is that the benefit of popularizing the Knoxville Aquarium idea could offset the environmental and ethical costs of using an AI to generate these images.]
+
+![Knoxville was once known for its marble quarries; this uses a marble facade with bronze relief sculptures of local aquatic animals](Gemini_Generated_Image_cs3pcfcs3pcfcs3p.png){fig-alt="A Google Gemini rendering of an aquarium building. It reflects the prompt used: Create a photograph of an architecturally interesting aquarium building of about 150,000 square feet. The building should have an exterior with a lot of marble and glass. It is two stories tall. It has a patio on the roof and also some sedum. The building is sited in a park on a hill. The name of the building is the Knoxville Aquarium. We should be able to see fish tanks and similar structures through the windows. The aquarium focuses on freshwater fish from Tennessee. Bronze relief structures of freshwater animals are inset in the facade of the building. A diverse set of people are visiting the aquarium"}
