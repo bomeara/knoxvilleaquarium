@@ -8,3 +8,4 @@ In [April 2018](https://www.knoxvilletn.gov/cms/One.aspx?portalId=109562&pageId=
 
 This website presents a quick proposal: the Knoxville Aquarium. The website is just to popularize the idea: there is no organizational group fundraising for an aquarium, there are no discussions with city or county leadership, there are no hidden donors waiting to write checks (if you know any, though...). 
 
+Click on the menu above for pages on the potential [exhibits](exhibits.html), [site](site.html), [utility](utility.html) of the project, [comparisons](comparisons.html) to other places, and [about](about.html) the background of the proposer.
