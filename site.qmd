@@ -12,6 +12,31 @@ There are three essentially adjacent parking garages. The area is used to handli
 
 <div class="embed-map-responsive"><div class="embed-map-container"><iframe class="embed-map-frame" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&height=400&hl=en&q=800%20Howard%20Baker%20Jr.%20Ave%2C%20Knoxville%2C%20TN%2037915&t=&z=14&ie=UTF8&iwloc=B&output=embed"></iframe><a href="https://cartoongames.io" style="font-size:2px!important;color:gray!important;position:absolute;bottom:0;left:0;z-index:1;max-height:10px;overflow:hidden">Cartoon Games</a><a href="https://heygames.org" style="font-size:2px!important;color:gray!important;position:absolute;bottom:0;left:0;z-index:1;max-height:10px;overflow:hidden">HeyGames</a><a href="https://map-embed.org" style="font-size:2px!important;color:gray!important;position:absolute;bottom:0;left:0;z-index:1;max-height:10px;overflow:hidden">google maps generator</a></div><style>.embed-map-responsive{position:relative;text-align:right;width:100%;height:0;padding-bottom:66.66666666666666%;}.embed-map-container{overflow:hidden;background:none!important;width:100%;height:100%;position:absolute;top:0;left:0;}.embed-map-frame{width:100%!important;height:100%!important;position:absolute;top:0;left:0;}</style></div>
 
+### Travel 
+
+Here is a map of all places within an hour by car of the site, courtesy of https://radiusmapper.com:
+
+<iframe
+  src="https://radiusmapper.com/embed/Yd2UePVRep"
+  width="600"
+  height="500"
+  frameborder="0"
+  style="border: 1px solid #e5e7eb; border-radius: 0.5rem;"
+  title="RadiusMapper - Travel Time Map"
+></iframe>
+
+
+And a thirty minute walk from the same site:
+
+<iframe
+  src="https://radiusmapper.com/embed/bEtL7Jfedc"
+  width="600"
+  height="500"
+  frameborder="0"
+  style="border: 1px solid #e5e7eb; border-radius: 0.5rem;"
+  title="RadiusMapper - Travel Time Map"
+></iframe>
+
 ## Design
 
 One would want to have real architects involved in any design process. Just for quick inspiration, I used Google Gemini to create a few potential ideas. [My hope is that the benefit of popularizing the Knoxville Aquarium idea could offset the environmental and ethical costs of using an AI to generate these images.]
