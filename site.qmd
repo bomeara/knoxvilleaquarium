@@ -4,7 +4,7 @@ title: "Site & Design"
 
 ## Site
 
-The site is one and a half blocks, close to the Knoxville Civic Center and Coliseum. See a map from the [2019 presentation](https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_109478/File/Redevelopment/Science/112119-presentation.pdf) made to the city of Knoxville by representatives of the Clayton Family Foundation and BarberMcMurry Architects (note that use of the map does not imply any endorsement by either of these groups of any plan for an aquarium at the site or any other ideas on this webpage). 
+The site is one and a half blocks in size, close to the Knoxville Civic Center and Coliseum. See a map from the [2019 presentation](https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_109478/File/Redevelopment/Science/112119-presentation.pdf) made to the city of Knoxville by representatives of the Clayton Family Foundation and BarberMcMurry Architects (note that use of the map does not imply any endorsement by either of these groups of any plan for an aquarium at the site or any other ideas on this webpage). 
 
 ![Map from presentation by representatives of the Clayton Family Foundation and BarberMcMurry Architects](map.png){fig-alt="Map of the site. It shows a irregular plot bordered by Howard Baker Jr. Avenue, Hill Avenue, and James White Parkway just to the east of the Civic Auditorium & Coliseum. There are three nearby parking garages."}
 
