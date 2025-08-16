@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Knoxville Aquarium"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - site.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
